@@ -55,6 +55,6 @@ This project is a comprehensive Power BI dashboard designed to provide interacti
 Feel free to submit issues or contribute to this repository with suggestions and improvements!
 
 ### Author
-**[Riya Sainudeen]**
+**Riya Sainudeen**
 - **LinkedIn**:https://www.linkedin.com/in/riyasainudeen/
 
